@@ -22,7 +22,7 @@
  *    SOFTWARE.
  */
 
-package com.credentech;
+package com.iborgesdev;
 
 import java.io.File;
 import java.net.HttpURLConnection;

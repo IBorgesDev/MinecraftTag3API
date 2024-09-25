@@ -22,7 +22,7 @@
  *    SOFTWARE.
  */
 
-package com.credentech;
+package com.iborgesdev;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -38,10 +38,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
 import java.util.Set;
-import javax.script.Invocable;
-import javax.script.ScriptEngine;
-import javax.script.ScriptEngineManager;
-import javax.script.ScriptException;
+
 import org.apache.commons.io.FileUtils;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;

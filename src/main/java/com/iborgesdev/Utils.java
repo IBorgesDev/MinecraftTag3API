@@ -22,7 +22,7 @@
  *    SOFTWARE.
  */
 
-package com.credentech;
+package com.iborgesdev;
 
 import java.io.BufferedWriter;
 import java.io.FileInputStream;
@@ -42,7 +42,7 @@ import java.io.InputStream;
 import java.util.jar.JarEntry;
 import java.util.jar.JarFile;
 import java.util.Enumeration;
-import com.alemcode.HexEditor.Hex;
+
 import com.alemcode.HexEditor.HexEditor;
 import java.io.Closeable;
 import java.io.IOException;
@@ -54,15 +54,13 @@ import java.util.LinkedList;
 import java.util.Map;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
-import org.apache.commons.io.FileUtils;
 
 
 import static org.zeroturnaround.zip.commons.FileUtils.copy;
 import com.moonlake.nbt.NBTBase;
 import com.moonlake.nbt.NBTTagCompound;
 import com.moonlake.nbt.NBTUtil;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+
 import java.util.UUID;
 /**
  *
